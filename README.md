@@ -1,4 +1,4 @@
-🔴 # <span style="color:red"> Min-Max </span> <span style="color:blue"> Connect4 </span># 🔵
+# 🔴<span style="color:red"> Min-Max </span> <span style="color:blue"> Connect4 </span>🔵 # 
 
 **Name:** Connect4  
 **Version:** 0.1
