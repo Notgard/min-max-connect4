@@ -1,0 +1,5 @@
+#Min-Max Connect4 requirements
+#Usage: pip install -r requirements.txt
+
+numpy>=1.24.2
+pygame>=2.5.2
