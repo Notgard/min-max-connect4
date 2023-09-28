@@ -1,4 +1,4 @@
-# Min-Max Connect4 #
+# 🔴Min-Max Connect4🔵 #
 
 **Name:** Connect4  
 **Version:** 0.1
