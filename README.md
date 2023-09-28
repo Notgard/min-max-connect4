@@ -7,6 +7,9 @@ A graphic based connect 4 game which implements the Min-Max algorithm to determi
 
 I use the pygame Python library to make the graphic interface version of the game and run multiple simulations of games between computers using the Min-Max algorithm to make their moves and gather different statistics from it.
 
+This is how the singleplayer looks for now (might make some changes later)
+![Main_Game](https://github.com/Winter091/MarioPygame/blob/main/singleplayer_gameplay.png)
+
 ## To play ##
 
 First, be sure to clone the repository
